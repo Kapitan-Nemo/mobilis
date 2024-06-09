@@ -36,6 +36,7 @@ To build the application for production, you can use the build script provided i
 
 ```sh
 npm run build
+```
 
 # Vue 3 + TypeScript + Vite
 
