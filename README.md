@@ -6,6 +6,8 @@
 
 Mobilis is a WordPress plugin boilerplate for development using Vue 3, Vite, TypeScript, and Tailwind CSS. It provides a convenient starting point for developing WordPress plugins with a modern JavaScript stack.
 
+You can run development and build scripts to work on the Vue application and compile it into a WordPress plugin. The plugin includes a simple Vue component that you can use as a starting point for your own development.
+
 ## Features
 
 - Vue 3 for building user interfaces
@@ -27,6 +29,13 @@ To start the development server:
 ```sh
 npm run dev
 ```
+
+## Building the Application
+
+To build the application for production, you can use the build script provided in the `package.json` file. Here's the command to do it:
+
+```sh
+npm run build
 
 # Vue 3 + TypeScript + Vite
 
