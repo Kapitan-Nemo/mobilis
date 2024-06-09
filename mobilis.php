@@ -4,7 +4,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Mobilis
- * Plugin URI:        https://https://github.com/Kapitan-Nemo/Mobilis
+ * Plugin URI:        https://github.com/Kapitan-Nemo/mobilis
  * Description:       Boilerplate for WordPress plugin development using Vue 3 / Vite / Typescript / Tailwind CSS
  * tags:              vue, vite, typescript, tailwindcss
  * Version:           1.0.0
