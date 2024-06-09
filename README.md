@@ -1,5 +1,9 @@
 # Mobilis WordPress Plugin
 
+```markdown
+![Image Description](images/mobilis-in-mobili.png)
+```
+
 Mobilis is a WordPress plugin boilerplate for development using Vue 3, Vite, TypeScript, and Tailwind CSS. It provides a convenient starting point for developing WordPress plugins with a modern JavaScript stack.
 
 ## Features
