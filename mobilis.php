@@ -1,5 +1,9 @@
 <?php
 
+if (!defined('ABSPATH')) {
+    exit; // Exit if accessed directly
+}
+
 /*
  *
  * @wordpress-plugin
@@ -19,8 +23,4 @@
  require_once plugin_dir_path(__FILE__) . 'includes/menu.php';
  require_once plugin_dir_path(__FILE__) . 'includes/admin-scripts.php';
 
-
-if (!defined('ABSPATH')) {
-    exit;
-}
 

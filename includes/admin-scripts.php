@@ -1,5 +1,9 @@
 <?php
 
+if (!defined('ABSPATH')) {
+    exit; // Exit if accessed directly
+}
+
 function mobilis_admin_scripts($hook_suffix) {
     if ('toplevel_page_mobilis' !== $hook_suffix) {
         // Not our page, bail out

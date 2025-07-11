@@ -1,5 +1,9 @@
 <?php
 
+if (!defined('ABSPATH')) {
+    exit; // Exit if accessed directly
+}
+
 function mobilis_menu() {
     add_menu_page(
         'Mobilis', // page title
